@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot — Powered by Claude API
+# 🤖 AI Chatbot — GOOGLE API KEY
 
 A Windows Forms AI Chatbot application built with **.NET 6** and the **Anthropic Claude API**.
 This project was developed as part of an AI-Based Application Development assignment.
